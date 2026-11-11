@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: dc450b1e99e67ef4a8548ecddc14c649
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8534457012344276116
+    second: Front-Light_0
+  - first:
+      213: 762389131604186915
+    second: Front-Light_1
+  - first:
+      213: 4320759503752595227
+    second: Front-Light_2
+  - first:
+      213: 1503597294696022613
+    second: Front-Light_3
+  - first:
+      213: 8581662098948155891
+    second: Front-Light_4
+  - first:
+      213: 8097080261391166581
+    second: Front-Light_5
+  - first:
+      213: -6043815585796630691
+    second: Front-Light_6
+  - first:
+      213: 4363236286196268929
+    second: Front-Light_7
+  - first:
+      213: 923834675920788310
+    second: Front-Light_8
+  - first:
+      213: 2329674926155100190
+    second: Front-Light_9
+  - first:
+      213: -1821017507107557917
+    second: Front-Light_10
+  - first:
+      213: 3597085052968153129
+    second: Front-Light_11
+  - first:
+      213: -9000071965496652741
+    second: Front-Light_12
+  - first:
+      213: -53168423116497100
+    second: Front-Light_13
+  - first:
+      213: -5582759588541956486
+    second: Front-Light_14
+  - first:
+      213: -6276083911687312989
+    second: Front-Light_15
+  - first:
+      213: 3739290097929015272
+    second: Front-Light_16
+  - first:
+      213: -6839207228348231286
+    second: Front-Light_17
+  - first:
+      213: 409716272833783498
+    second: Front-Light_18
+  - first:
+      213: 3313278313237319017
+    second: Front-Light_19
+  - first:
+      213: 4484247704200781319
+    second: Front-Light_20
+  - first:
+      213: 4853739931089346229
+    second: Front-Light_21
+  - first:
+      213: -1296566243192407644
+    second: Front-Light_22
+  - first:
+      213: 7215731884531819361
+    second: Front-Light_23
+  - first:
+      213: 1743830875045736151
+    second: Front-Light_24
+  - first:
+      213: 5102120753455767921
+    second: Front-Light_25
+  - first:
+      213: -5678444105366469531
+    second: Front-Light_26
+  - first:
+      213: 1856248138920266967
+    second: Front-Light_27
+  - first:
+      213: -1307803718530133549
+    second: Front-Light_28
+  - first:
+      213: 2043026439341288965
+    second: Front-Light_29
+  - first:
+      213: -203749243503041672
+    second: Front-Light_30
+  - first:
+      213: -2033382099486642813
+    second: Front-Light_31
+  - first:
+      213: 3893341288183263021
+    second: Front-Light_32
+  - first:
+      213: -3152731665855743523
+    second: Front-Light_33
+  - first:
+      213: -2012379923934919253
+    second: Front-Light_34
+  - first:
+      213: 2068927647236280115
+    second: Front-Light_35
+  - first:
+      213: 4353218919041621747
+    second: Front-Light_36
+  - first:
+      213: -3716064587987741839
+    second: Front-Light_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front-Light_0
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1150
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4944f9b6f6b707670800000000000000
+      internalID: 8534457012344276116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_1
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1138
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d2e930ec849a00800000000000000
+      internalID: 762389131604186915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1195
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17011550eb66fb30800000000000000
+      internalID: 4320759503752595227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1107
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552489be5c9ddd410800000000000000
+      internalID: 1503597294696022613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_4
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1171
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ec3e1630381770800000000000000
+      internalID: 8581662098948155891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_5
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1138
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2c0af89b9e5070800000000000000
+      internalID: 8097080261391166581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_6
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1138
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d575f980fbd002ca0800000000000000
+      internalID: -6043815585796630691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_7
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1110
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb2dde8445d8c30800000000000000
+      internalID: 4363236286196268929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1120
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b52793ebe12dc00800000000000000
+      internalID: 923834675920788310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1235
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10fb9f800ba45020800000000000000
+      internalID: 2329674926155100190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_10
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1067
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed2617b9327ab6e0800000000000000
+      internalID: -1821017507107557917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_11
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1076
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b8092cc96be130800000000000000
+      internalID: 3597085052968153129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_12
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1074
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cce975b32591380800000000000000
+      internalID: -9000071965496652741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_13
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1075
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f9fd2d99b134ff0800000000000000
+      internalID: -53168423116497100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_14
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1012
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7efc82abbd0682b0800000000000000
+      internalID: -5582759588541956486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_15
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 992
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a965573feed6e8a0800000000000000
+      internalID: -6276083911687312989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_16
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 984
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc13f4880a4e330800000000000000
+      internalID: 3739290097929015272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 939
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a811501f2414611a0800000000000000
+      internalID: -6839207228348231286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 789
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac664f487ca9fa500800000000000000
+      internalID: 409716272833783498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 819
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d048642112bfd20800000000000000
+      internalID: 3313278313237319017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_20
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 817
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9fb5478f3b3e30800000000000000
+      internalID: 4484247704200781319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_21
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 609
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be95b840c2fb5340800000000000000
+      internalID: 4853739931089346229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_22
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 773
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f0ce0fdba10ee0800000000000000
+      internalID: -1296566243192407644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163aafb1bed632460800000000000000
+      internalID: 7215731884531819361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 551
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea57f01f4533810800000000000000
+      internalID: 1743830875045736151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 453
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17121e60bcf5ec640800000000000000
+      internalID: 5102120753455767921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 455
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56488befb2d1231b0800000000000000
+      internalID: -5678444105366469531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 417
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc8257f8d7b2c910800000000000000
+      internalID: 1856248138920266967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 5
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d19311727fb9dde0800000000000000
+      internalID: -1307803718530133549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 388
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e2bafd8b94a5c10800000000000000
+      internalID: 2043026439341288965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 347
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8732fbd74232c2df0800000000000000
+      internalID: -203749243503041672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de57bf0c9f7c3e0800000000000000
+      internalID: -2033382099486642813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 280
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6687164de70630800000000000000
+      internalID: 3893341288183263021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9fa88f04f3f34d0800000000000000
+      internalID: -3152731665855743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 109
+        width: 140
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba54bb80f179214e0800000000000000
+      internalID: -2012379923934919253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fc087cbbe46bc10800000000000000
+      internalID: 2068927647236280115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 81
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe5cf2ea8db96c30800000000000000
+      internalID: 4353218919041621747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front-Light_37
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173159e12f2ed6cc0800000000000000
+      internalID: -3716064587987741839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Front-Light_0: 8534457012344276116
+      Front-Light_1: 762389131604186915
+      Front-Light_10: -1821017507107557917
+      Front-Light_11: 3597085052968153129
+      Front-Light_12: -9000071965496652741
+      Front-Light_13: -53168423116497100
+      Front-Light_14: -5582759588541956486
+      Front-Light_15: -6276083911687312989
+      Front-Light_16: 3739290097929015272
+      Front-Light_17: -6839207228348231286
+      Front-Light_18: 409716272833783498
+      Front-Light_19: 3313278313237319017
+      Front-Light_2: 4320759503752595227
+      Front-Light_20: 4484247704200781319
+      Front-Light_21: 4853739931089346229
+      Front-Light_22: -1296566243192407644
+      Front-Light_23: 7215731884531819361
+      Front-Light_24: 1743830875045736151
+      Front-Light_25: 5102120753455767921
+      Front-Light_26: -5678444105366469531
+      Front-Light_27: 1856248138920266967
+      Front-Light_28: -1307803718530133549
+      Front-Light_29: 2043026439341288965
+      Front-Light_3: 1503597294696022613
+      Front-Light_30: -203749243503041672
+      Front-Light_31: -2033382099486642813
+      Front-Light_32: 3893341288183263021
+      Front-Light_33: -3152731665855743523
+      Front-Light_34: -2012379923934919253
+      Front-Light_35: 2068927647236280115
+      Front-Light_36: 4353218919041621747
+      Front-Light_37: -3716064587987741839
+      Front-Light_4: 8581662098948155891
+      Front-Light_5: 8097080261391166581
+      Front-Light_6: -6043815585796630691
+      Front-Light_7: 4363236286196268929
+      Front-Light_8: 923834675920788310
+      Front-Light_9: 2329674926155100190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

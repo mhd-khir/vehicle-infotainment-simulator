@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: a39274130ed6f884a9bcfd85c1e4fddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1892161111136338681
+    second: InteriorLight_0
+  - first:
+      213: -9163207068208362050
+    second: InteriorLight_1
+  - first:
+      213: 2745258614481116981
+    second: InteriorLight_2
+  - first:
+      213: -3251815239111233634
+    second: InteriorLight_3
+  - first:
+      213: 2902543156591353789
+    second: InteriorLight_4
+  - first:
+      213: -7442254056748638056
+    second: InteriorLight_5
+  - first:
+      213: -7306858098616426228
+    second: InteriorLight_6
+  - first:
+      213: 2665544806061933030
+    second: InteriorLight_7
+  - first:
+      213: -1861565321250768703
+    second: InteriorLight_8
+  - first:
+      213: 5969233862280106645
+    second: InteriorLight_9
+  - first:
+      213: -1188730269463402195
+    second: InteriorLight_10
+  - first:
+      213: -4142419558256426412
+    second: InteriorLight_11
+  - first:
+      213: 2107530582104994909
+    second: InteriorLight_12
+  - first:
+      213: -8095715014376554418
+    second: InteriorLight_13
+  - first:
+      213: -8970670848014876193
+    second: InteriorLight_14
+  - first:
+      213: -8900818596017486134
+    second: InteriorLight_15
+  - first:
+      213: 7014739372059785629
+    second: InteriorLight_16
+  - first:
+      213: -6831275246545342049
+    second: InteriorLight_17
+  - first:
+      213: -9474426441529248
+    second: InteriorLight_18
+  - first:
+      213: 2191818455721635943
+    second: InteriorLight_19
+  - first:
+      213: 369547295472460076
+    second: InteriorLight_20
+  - first:
+      213: 1631223070520360040
+    second: InteriorLight_21
+  - first:
+      213: 2369218267595453276
+    second: InteriorLight_22
+  - first:
+      213: 2065185638445371626
+    second: InteriorLight_23
+  - first:
+      213: -8499621932707172424
+    second: InteriorLight_24
+  - first:
+      213: -2917296268227160775
+    second: InteriorLight_25
+  - first:
+      213: 6512981980012292328
+    second: InteriorLight_26
+  - first:
+      213: 424736667676443232
+    second: InteriorLight_27
+  - first:
+      213: -493737417633537211
+    second: InteriorLight_28
+  - first:
+      213: -6832533989540564690
+    second: InteriorLight_29
+  - first:
+      213: -4115668820074360274
+    second: InteriorLight_30
+  - first:
+      213: -3523522583941033755
+    second: InteriorLight_31
+  - first:
+      213: 6045590209466085831
+    second: InteriorLight_32
+  - first:
+      213: 8020160107803886795
+    second: InteriorLight_33
+  - first:
+      213: -6907027796915392597
+    second: InteriorLight_34
+  - first:
+      213: 9185023993393339560
+    second: InteriorLight_35
+  - first:
+      213: 5954073889005736677
+    second: InteriorLight_36
+  - first:
+      213: 5877105680984837299
+    second: InteriorLight_37
+  - first:
+      213: 8204545279195688831
+    second: InteriorLight_38
+  - first:
+      213: -1033371283323048657
+    second: InteriorLight_39
+  - first:
+      213: 6595592143689569153
+    second: InteriorLight_40
+  - first:
+      213: 3070210047726457750
+    second: InteriorLight_41
+  - first:
+      213: 8447086636845090896
+    second: InteriorLight_42
+  - first:
+      213: -4073386058147920113
+    second: InteriorLight_43
+  - first:
+      213: -1094938281784845804
+    second: InteriorLight_44
+  - first:
+      213: 7409803948217133631
+    second: InteriorLight_45
+  - first:
+      213: -2184957442847158175
+    second: InteriorLight_46
+  - first:
+      213: 822958020866590679
+    second: InteriorLight_47
+  - first:
+      213: 8087240009227321933
+    second: InteriorLight_48
+  - first:
+      213: -457097303551025818
+    second: InteriorLight_49
+  - first:
+      213: 1857980228129823301
+    second: InteriorLight_50
+  - first:
+      213: -486189140462680726
+    second: InteriorLight_51
+  - first:
+      213: 4668200219363803910
+    second: InteriorLight_52
+  - first:
+      213: 7517206485174034886
+    second: InteriorLight_53
+  - first:
+      213: -4964527649049138857
+    second: InteriorLight_54
+  - first:
+      213: -2838077303313084558
+    second: InteriorLight_55
+  - first:
+      213: -4745409227578615070
+    second: InteriorLight_56
+  - first:
+      213: 1211897962619485619
+    second: InteriorLight_57
+  - first:
+      213: 1371567217212432247
+    second: InteriorLight_58
+  - first:
+      213: 7589201481085498641
+    second: InteriorLight_59
+  - first:
+      213: -6109454417475129219
+    second: InteriorLight_60
+  - first:
+      213: -3916125820313764766
+    second: InteriorLight_61
+  - first:
+      213: 2106295793882361852
+    second: InteriorLight_62
+  - first:
+      213: -7630000487046640114
+    second: InteriorLight_63
+  - first:
+      213: 2637027732411163335
+    second: InteriorLight_64
+  - first:
+      213: -110646199475560387
+    second: InteriorLight_65
+  - first:
+      213: -5775576460935848153
+    second: InteriorLight_66
+  - first:
+      213: 2807423465063919678
+    second: InteriorLight_67
+  - first:
+      213: 7127076676379954546
+    second: InteriorLight_68
+  - first:
+      213: 3801325205714751879
+    second: InteriorLight_69
+  - first:
+      213: -6794122259210161254
+    second: InteriorLight_70
+  - first:
+      213: -2566355491729027925
+    second: InteriorLight_71
+  - first:
+      213: -2237172112203512646
+    second: InteriorLight_72
+  - first:
+      213: -2344819774038884870
+    second: InteriorLight_73
+  - first:
+      213: 2274897521346371781
+    second: InteriorLight_74
+  - first:
+      213: -5024670653725806924
+    second: InteriorLight_75
+  - first:
+      213: 219512505413894850
+    second: InteriorLight_76
+  - first:
+      213: -4190425302364796222
+    second: InteriorLight_77
+  - first:
+      213: 1258618158193269088
+    second: InteriorLight_78
+  - first:
+      213: 575712197710146111
+    second: InteriorLight_79
+  - first:
+      213: -7531153547790712990
+    second: InteriorLight_80
+  - first:
+      213: 3863801997851549137
+    second: InteriorLight_81
+  - first:
+      213: -9108760092373113282
+    second: InteriorLight_82
+  - first:
+      213: -7451519897193524319
+    second: InteriorLight_83
+  - first:
+      213: 1132687257610776080
+    second: InteriorLight_84
+  - first:
+      213: -6364008118876270425
+    second: InteriorLight_85
+  - first:
+      213: 795382766937274754
+    second: InteriorLight_86
+  - first:
+      213: 7280668124249405629
+    second: InteriorLight_87
+  - first:
+      213: -4015345075916013827
+    second: InteriorLight_88
+  - first:
+      213: -7643087196744418326
+    second: InteriorLight_89
+  - first:
+      213: -8202390832630861625
+    second: InteriorLight_90
+  - first:
+      213: 8795343251121675792
+    second: InteriorLight_91
+  - first:
+      213: 4003489285704587965
+    second: InteriorLight_92
+  - first:
+      213: 8456875171992214770
+    second: InteriorLight_93
+  - first:
+      213: 1397206501446831185
+    second: InteriorLight_94
+  - first:
+      213: 3234006230883848458
+    second: InteriorLight_95
+  - first:
+      213: 7661761598340909241
+    second: InteriorLight_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InteriorLight_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 1101
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df8e89e71bdb5e0800000000000000
+      internalID: -1892161111136338681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1197
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd871068bfb5d080800000000000000
+      internalID: -9163207068208362050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1205
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5ab43a2e191620800000000000000
+      internalID: 2745258614481116981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1221
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa295d44b3fd2d0800000000000000
+      internalID: -3251815239111233634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1160
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5ed16f97e74820800000000000000
+      internalID: 2902543156591353789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1197
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a94bbd5dc7b890800000000000000
+      internalID: -7442254056748638056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_6
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1195
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0128cfc543d89a90800000000000000
+      internalID: -7306858098616426228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1166
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18532e0eaedf420800000000000000
+      internalID: 2665544806061933030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1162
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c879ac04346a26e0800000000000000
+      internalID: -1861565321250768703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1124
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925076429af6d250800000000000000
+      internalID: 5969233862280106645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1130
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2921ea3e18c08fe0800000000000000
+      internalID: -1188730269463402195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1110
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ce77fb5b2386c0800000000000000
+      internalID: -4142419558256426412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_12
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1075
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f3a3f5e37f3d10800000000000000
+      internalID: 2107530582104994909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_13
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1086
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400a4d561e36af80800000000000000
+      internalID: -8095715014376554418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_14
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1113
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd10f137466c18380800000000000000
+      internalID: -8970670848014876193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1082
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6cf2e35a0f97480800000000000000
+      internalID: -8900818596017486134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1070
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99f19f0b4c595160800000000000000
+      internalID: 7014739372059785629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_17
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1052
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91febe5b5f6231a0800000000000000
+      internalID: -6831275246545342049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1029
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06880813f075edff0800000000000000
+      internalID: -9474426441529248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1044
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760fe61d547ea6e10800000000000000
+      internalID: 2191818455721635943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_20
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1044
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21a75aae45e02500800000000000000
+      internalID: 369547295472460076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 964
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cb9c37db443a610800000000000000
+      internalID: 1631223070520360040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_22
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1027
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53b463367721e020800000000000000
+      internalID: 2369218267595453276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_23
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 992
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae056c6756309ac10800000000000000
+      internalID: 2065185638445371626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_24
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1019
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfaed792e64b0a80800000000000000
+      internalID: -8499621932707172424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355fb3208ea387d0800000000000000
+      internalID: -2917296268227160775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 972
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e827238a92c26a50800000000000000
+      internalID: 6512981980012292328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 921
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06200f7bfb7f4e500800000000000000
+      internalID: 424736667676443232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 941
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54362a14f64e529f0800000000000000
+      internalID: -493737417633537211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_29
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 939
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f6ad6986fd21a0800000000000000
+      internalID: -6832533989540564690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_30
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 930
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22115e830532e6c0800000000000000
+      internalID: -4115668820074360274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_31
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 841
+        width: 47
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0d02ad0eee91fc0800000000000000
+      internalID: -3523522583941033755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 57
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13eccb34046e350800000000000000
+      internalID: 6045590209466085831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 909
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c86b10255d4f60800000000000000
+      internalID: 8020160107803886795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_34
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 915
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafeb1f40de4520a0800000000000000
+      internalID: -6907027796915392597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_35
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 843
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac56ab58a2c77f70800000000000000
+      internalID: 9185023993393339560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 795
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e29d90f7ae11a250800000000000000
+      internalID: 5954073889005736677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_37
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 766
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc08868a7caf8150800000000000000
+      internalID: 5877105680984837299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_38
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 755
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f211e36766cd170800000000000000
+      internalID: 8204545279195688831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_39
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 760
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da078fa4ab8a1f0800000000000000
+      internalID: -1033371283323048657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_40
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 762
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18359f71c10488b50800000000000000
+      internalID: 6595592143689569153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_41
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 773
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693129095c39b9a20800000000000000
+      internalID: 3070210047726457750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 49
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058c918aa841a3570800000000000000
+      internalID: 8447086636845090896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_43
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07801b36fc6877c0800000000000000
+      internalID: -4073386058147920113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_44
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 755
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41adc371f6ffdc0f0800000000000000
+      internalID: -1094938281784845804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_45
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 722
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae4cc9e69e4d660800000000000000
+      internalID: 7409803948217133631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_46
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 728
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160dfb938c87da1e0800000000000000
+      internalID: -2184957442847158175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_47
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 670
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7cfc2b5fbbb6b00800000000000000
+      internalID: 822958020866590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 690
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42425bb0f5ab3070800000000000000
+      internalID: 8087240009227321933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_49
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 671
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d5d0a9c6018a9f0800000000000000
+      internalID: -457097303551025818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_50
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 674
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a90696c2fd8c910800000000000000
+      internalID: 1857980228129823301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_51
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 579
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65c11d7d85b049f0800000000000000
+      internalID: -486189140462680726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_52
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 628
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038497cd57c8c040800000000000000
+      internalID: 4668200219363803910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 610
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1af0c687b725860800000000000000
+      internalID: 7517206485174034886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_54
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 598
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75922d808647a1bb0800000000000000
+      internalID: -4964527649049138857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_55
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 601
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fcceababf1d98d0800000000000000
+      internalID: -2838077303313084558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 568
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ead054237be42eb0800000000000000
+      internalID: -4745409227578615070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_57
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 552
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd34fda6c681d010800000000000000
+      internalID: 1211897962619485619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_58
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 535
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f948ffd19c80310800000000000000
+      internalID: 1371567217212432247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 23
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11538f8a982425960800000000000000
+      internalID: 7589201481085498641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_60
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 513
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7034fa939bd63ba0800000000000000
+      internalID: -6109454417475129219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_61
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 487
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7670a05027a9c0800000000000000
+      internalID: -3916125820313764766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 489
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe14a6dd01b3d10800000000000000
+      internalID: 2106295793882361852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 486
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e07858bfacc1690800000000000000
+      internalID: -7630000487046640114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_64
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 473
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2a83540ca989420800000000000000
+      internalID: 2637027732411163335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_65
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 417
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3023882ed7e67ef0800000000000000
+      internalID: -110646199475560387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_66
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 469
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9fc02fc709dfa0800000000000000
+      internalID: -5775576460935848153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_67
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 464
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e303b3164c8f5f620800000000000000
+      internalID: 2807423465063919678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 433
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d499ee97678e260800000000000000
+      internalID: 7127076676379954546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781dd52622501c430800000000000000
+      internalID: 3801325205714751879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9334335dcd66b1a0800000000000000
+      internalID: -6794122259210161254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 21
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4e140749726cd0800000000000000
+      internalID: -2566355491729027925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_72
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 224
+        width: 107
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab403b621d7f3f0e0800000000000000
+      internalID: -2237172112203512646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 162
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb912c6d6857fd0800000000000000
+      internalID: -2344819774038884870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_74
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 183
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c064442e3f029f10800000000000000
+      internalID: 2274897521346371781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 146
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee75b89a8c44ab0800000000000000
+      internalID: -5024670653725806924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_76
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 166
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c283fce57ddb0300800000000000000
+      internalID: 219512505413894850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_77
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 146
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caccbaa36e98d5c0800000000000000
+      internalID: -4190425302364796222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06957f2eb82877110800000000000000
+      internalID: 1258618158193269088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_79
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 117
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a6f5d81375df700800000000000000
+      internalID: 575712197710146111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_80
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ff20300c7fb7790800000000000000
+      internalID: -7531153547790712990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_81
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 100
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd26c127bfe9530800000000000000
+      internalID: 3863801997851549137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a8ddc4fe279180800000000000000
+      internalID: -9108760092373113282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 75
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a356032222e69890800000000000000
+      internalID: -7451519897193524319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_84
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 47
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e608f3f0d18bf00800000000000000
+      internalID: 1132687257610776080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_85
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09da675508ea7a0800000000000000
+      internalID: -6364008118876270425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_86
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 94
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28973c39964c90b00800000000000000
+      internalID: 795382766937274754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 65
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8356995112a0560800000000000000
+      internalID: 7280668124249405629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe796b7de0a648c0800000000000000
+      internalID: -4015345075916013827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb76ba70bc4ee590800000000000000
+      internalID: -7643087196744418326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_90
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 71
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0fd10fef04b2e80800000000000000
+      internalID: -8202390832630861625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_91
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9cb056165f0a70800000000000000
+      internalID: 8795343251121675792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_92
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 49
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba11804b404f8730800000000000000
+      internalID: 4003489285704587965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9a68992bdc5570800000000000000
+      internalID: 8456875171992214770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_94
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 23
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cca9c09efd36310800000000000000
+      internalID: 1397206501446831185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_95
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 79
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a015b31588f71ec20800000000000000
+      internalID: 3234006230883848458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InteriorLight_96
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 7
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c6d6749b045a60800000000000000
+      internalID: 7661761598340909241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InteriorLight_0: -1892161111136338681
+      InteriorLight_1: -9163207068208362050
+      InteriorLight_10: -1188730269463402195
+      InteriorLight_11: -4142419558256426412
+      InteriorLight_12: 2107530582104994909
+      InteriorLight_13: -8095715014376554418
+      InteriorLight_14: -8970670848014876193
+      InteriorLight_15: -8900818596017486134
+      InteriorLight_16: 7014739372059785629
+      InteriorLight_17: -6831275246545342049
+      InteriorLight_18: -9474426441529248
+      InteriorLight_19: 2191818455721635943
+      InteriorLight_2: 2745258614481116981
+      InteriorLight_20: 369547295472460076
+      InteriorLight_21: 1631223070520360040
+      InteriorLight_22: 2369218267595453276
+      InteriorLight_23: 2065185638445371626
+      InteriorLight_24: -8499621932707172424
+      InteriorLight_25: -2917296268227160775
+      InteriorLight_26: 6512981980012292328
+      InteriorLight_27: 424736667676443232
+      InteriorLight_28: -493737417633537211
+      InteriorLight_29: -6832533989540564690
+      InteriorLight_3: -3251815239111233634
+      InteriorLight_30: -4115668820074360274
+      InteriorLight_31: -3523522583941033755
+      InteriorLight_32: 6045590209466085831
+      InteriorLight_33: 8020160107803886795
+      InteriorLight_34: -6907027796915392597
+      InteriorLight_35: 9185023993393339560
+      InteriorLight_36: 5954073889005736677
+      InteriorLight_37: 5877105680984837299
+      InteriorLight_38: 8204545279195688831
+      InteriorLight_39: -1033371283323048657
+      InteriorLight_4: 2902543156591353789
+      InteriorLight_40: 6595592143689569153
+      InteriorLight_41: 3070210047726457750
+      InteriorLight_42: 8447086636845090896
+      InteriorLight_43: -4073386058147920113
+      InteriorLight_44: -1094938281784845804
+      InteriorLight_45: 7409803948217133631
+      InteriorLight_46: -2184957442847158175
+      InteriorLight_47: 822958020866590679
+      InteriorLight_48: 8087240009227321933
+      InteriorLight_49: -457097303551025818
+      InteriorLight_5: -7442254056748638056
+      InteriorLight_50: 1857980228129823301
+      InteriorLight_51: -486189140462680726
+      InteriorLight_52: 4668200219363803910
+      InteriorLight_53: 7517206485174034886
+      InteriorLight_54: -4964527649049138857
+      InteriorLight_55: -2838077303313084558
+      InteriorLight_56: -4745409227578615070
+      InteriorLight_57: 1211897962619485619
+      InteriorLight_58: 1371567217212432247
+      InteriorLight_59: 7589201481085498641
+      InteriorLight_6: -7306858098616426228
+      InteriorLight_60: -6109454417475129219
+      InteriorLight_61: -3916125820313764766
+      InteriorLight_62: 2106295793882361852
+      InteriorLight_63: -7630000487046640114
+      InteriorLight_64: 2637027732411163335
+      InteriorLight_65: -110646199475560387
+      InteriorLight_66: -5775576460935848153
+      InteriorLight_67: 2807423465063919678
+      InteriorLight_68: 7127076676379954546
+      InteriorLight_69: 3801325205714751879
+      InteriorLight_7: 2665544806061933030
+      InteriorLight_70: -6794122259210161254
+      InteriorLight_71: -2566355491729027925
+      InteriorLight_72: -2237172112203512646
+      InteriorLight_73: -2344819774038884870
+      InteriorLight_74: 2274897521346371781
+      InteriorLight_75: -5024670653725806924
+      InteriorLight_76: 219512505413894850
+      InteriorLight_77: -4190425302364796222
+      InteriorLight_78: 1258618158193269088
+      InteriorLight_79: 575712197710146111
+      InteriorLight_8: -1861565321250768703
+      InteriorLight_80: -7531153547790712990
+      InteriorLight_81: 3863801997851549137
+      InteriorLight_82: -9108760092373113282
+      InteriorLight_83: -7451519897193524319
+      InteriorLight_84: 1132687257610776080
+      InteriorLight_85: -6364008118876270425
+      InteriorLight_86: 795382766937274754
+      InteriorLight_87: 7280668124249405629
+      InteriorLight_88: -4015345075916013827
+      InteriorLight_89: -7643087196744418326
+      InteriorLight_9: 5969233862280106645
+      InteriorLight_90: -8202390832630861625
+      InteriorLight_91: 8795343251121675792
+      InteriorLight_92: 4003489285704587965
+      InteriorLight_93: 8456875171992214770
+      InteriorLight_94: 1397206501446831185
+      InteriorLight_95: 3234006230883848458
+      InteriorLight_96: 7661761598340909241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

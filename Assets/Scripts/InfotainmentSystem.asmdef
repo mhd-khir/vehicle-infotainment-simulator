@@ -1,0 +1,8 @@
+{
+  "name": "InfotainmentSystem",
+  "references": [
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "autoReferenced": true
+}

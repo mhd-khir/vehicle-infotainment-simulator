@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 9764952d9b8521047a43d75cbcd259ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7523797655861061230
+    second: Rear-Light_0
+  - first:
+      213: -1073903322242024776
+    second: Rear-Light_1
+  - first:
+      213: -3268303706371343018
+    second: Rear-Light_2
+  - first:
+      213: 3705903365219969902
+    second: Rear-Light_3
+  - first:
+      213: 2898611643508636959
+    second: Rear-Light_4
+  - first:
+      213: -7915992065313933760
+    second: Rear-Light_5
+  - first:
+      213: -4053056585818783168
+    second: Rear-Light_6
+  - first:
+      213: 5370215697120532167
+    second: Rear-Light_7
+  - first:
+      213: -8603548485077965872
+    second: Rear-Light_8
+  - first:
+      213: -2644748254567746407
+    second: Rear-Light_9
+  - first:
+      213: -8576782823914628194
+    second: Rear-Light_10
+  - first:
+      213: 7449067382610547815
+    second: Rear-Light_11
+  - first:
+      213: -1758028849366959785
+    second: Rear-Light_12
+  - first:
+      213: -807354287779330494
+    second: Rear-Light_13
+  - first:
+      213: -6529156458522928320
+    second: Rear-Light_14
+  - first:
+      213: 6687206427473991484
+    second: Rear-Light_15
+  - first:
+      213: 5467869617370396431
+    second: Rear-Light_16
+  - first:
+      213: -4693340830066030893
+    second: Rear-Light_17
+  - first:
+      213: -8650439151891461680
+    second: Rear-Light_18
+  - first:
+      213: -1751779935858434377
+    second: Rear-Light_19
+  - first:
+      213: -2971702349851689793
+    second: Rear-Light_20
+  - first:
+      213: 2771826096134141534
+    second: Rear-Light_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rear-Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1239
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991c7015e9169790800000000000000
+      internalID: -7523797655861061230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1195
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf6a24e9ab811f0800000000000000
+      internalID: -1073903322242024776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1180
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db4a36817a4a2d0800000000000000
+      internalID: -3268303706371343018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1063
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b6cd7d9730e6330800000000000000
+      internalID: 3705903365219969902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 996
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db429aeefe93820800000000000000
+      internalID: 2898611643508636959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 972
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f626482fb42290800000000000000
+      internalID: -7915992065313933760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_6
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 286
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c6bb5286a0c7c0800000000000000
+      internalID: -4053056585818783168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_7
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 307
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6981259b6d68a40800000000000000
+      internalID: 5370215697120532167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_8
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 310
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e3138c3e0a9880800000000000000
+      internalID: -8603548485077965872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_9
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 240
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b7269977fb4bd0800000000000000
+      internalID: -2644748254567746407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 250
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b95e0a67529f880800000000000000
+      internalID: -8576782823914628194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 178
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76453705157606760800000000000000
+      internalID: 7449067382610547815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f790731a3a97e0800000000000000
+      internalID: -1758028849366959785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24646058d83bbc4f0800000000000000
+      internalID: -807354287779330494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_14
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 85
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b1bce3bc6c365a0800000000000000
+      internalID: -6529156458522928320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37db41c0dabdcc50800000000000000
+      internalID: 6687206427473991484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07738d6276c1eb40800000000000000
+      internalID: 5467869617370396431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c316a167eddeb0800000000000000
+      internalID: -4693340830066030893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 55
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9c0606c6773f780800000000000000
+      internalID: -8650439151891461680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_19
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 44
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be508efd6d60b7e0800000000000000
+      internalID: -1751779935858434377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_20
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc75e2257462c6d0800000000000000
+      internalID: -2971702349851689793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rear-Light_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56bb3f0621877620800000000000000
+      internalID: 2771826096134141534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rear-Light_0: -7523797655861061230
+      Rear-Light_1: -1073903322242024776
+      Rear-Light_10: -8576782823914628194
+      Rear-Light_11: 7449067382610547815
+      Rear-Light_12: -1758028849366959785
+      Rear-Light_13: -807354287779330494
+      Rear-Light_14: -6529156458522928320
+      Rear-Light_15: 6687206427473991484
+      Rear-Light_16: 5467869617370396431
+      Rear-Light_17: -4693340830066030893
+      Rear-Light_18: -8650439151891461680
+      Rear-Light_19: -1751779935858434377
+      Rear-Light_2: -3268303706371343018
+      Rear-Light_20: -2971702349851689793
+      Rear-Light_21: 2771826096134141534
+      Rear-Light_3: 3705903365219969902
+      Rear-Light_4: 2898611643508636959
+      Rear-Light_5: -7915992065313933760
+      Rear-Light_6: -4053056585818783168
+      Rear-Light_7: 5370215697120532167
+      Rear-Light_8: -8603548485077965872
+      Rear-Light_9: -2644748254567746407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
